@@ -1,0 +1,3 @@
+([('FormsWSB',
+   '/Users/jakubziubinski/Desktop/FormsBot/pythonProject/dist/FormsWSB',
+   'EXECUTABLE')],)
